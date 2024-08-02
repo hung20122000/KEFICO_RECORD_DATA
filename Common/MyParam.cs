@@ -9,6 +9,8 @@ using static MaterialSkin.Controls.MaterialForm;
 
 namespace TanHungHa.Common
 {
+
+    //insert comment
     public enum eTaskLoop
     {
         Task_RS232,
