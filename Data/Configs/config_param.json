@@ -1,0 +1,1 @@
+{"myComport":{"isOpen":true,"prefix":"","suffix":"","readTimeout":500,"writeTimeout":500,"parity":0,"dataBits":8,"stopBits":0,"handshake":0,"isDTR":false,"isRTS":false,"dataComport":"","keyParseData":"M1=","portName":"COM5","baudRate":9600},"myExcel":{"filePath":"template.xlsx","workSheet": 0, "column": 1, "row": 2, "cellAdress": "D2", "mode": 1}}
